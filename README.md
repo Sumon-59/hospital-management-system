@@ -85,7 +85,7 @@ This project is for educational purposes and developed by Md Sumon Hossain.
 
 For any queries or contributions, please contact:  
 Md Sumon Hossain  
-Email: (your-email@example.com)  
+Email: (mdsumonhossainsumon429848@gmail.com)  
 GitHub: [https://github.com/Sumon-59](https://github.com/Sumon-59)
 
 ---
